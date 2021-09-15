@@ -225,11 +225,11 @@ sup {
 }
 
 a {
-  color: #ffc800;
+  color:  #dc3545;
   text-decoration: underline;
 }
 a:hover {
-  color: #cca000;
+  color: #dc3545;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -11697,7 +11697,7 @@ header.masthead .masthead-heading {
 
 section#contact {
   background-color: #212529;
-  background-image: url("../assets/img/map-image.png");
+  background-image: url("../assets/img/wall.jpg");
   background-repeat: no-repeat;
   background-position: center;
 }
